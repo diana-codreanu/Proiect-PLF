@@ -1,10 +1,14 @@
 # Generator de facturi - REACT APP
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 
 ### Screenshot-uri
-<img src="https://imgur.com/a/CZ2UIww" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://imgur.com/ZCmPbZh.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://imgur.com/jJPqc3w.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://imgur.com/oOqONMn.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://imgur.com/JgimX89.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://imgur.com/K70PvLo.png" style="max-width: 100px; width: 100%; height: auto;">
 
 
 ### Instalare
