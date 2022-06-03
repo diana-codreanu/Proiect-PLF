@@ -14,7 +14,7 @@
 ### Instalare
 
 ```
-git clone https://github.com/diana-codreanu/Aplicatie-Generare-Facturi---PLF
+git clone https://github.com/diana-codreanu/Aplicatie-Generare-Facturi
 
 npm install
 
